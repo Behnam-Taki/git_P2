@@ -1,2 +1,4 @@
-Hello Git World!
-I do my second Git project
+Hello Git World.
+I do my second Git project      ...
+
+
