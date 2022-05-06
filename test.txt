@@ -1,4 +1,4 @@
 final project is coming!
-line2
+line 2
 who care?
-line 3
+line 3 deleted
