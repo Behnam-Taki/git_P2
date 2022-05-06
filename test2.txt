@@ -1,0 +1,6 @@
+from feature-2 branch
+I write in txt file
+
+I'm going to make some changes
+iteratively
+I deleted line2
